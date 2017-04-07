@@ -15,7 +15,7 @@ public class Lab3_10 {
         Ted.createEpisode(2, "Failure is an Option", "01:24:57");
         Ted.printInfo();
         System.out.println("\nAudio Book Demo ============================= ");
-        AudioBook HarryPotter = new AudioBook("Harry Potter", "03:25:41", "JK Recording Studio", 2006);
+        AudioBook HarryPotter = new AudioBook("HP", "03:25:41", "JK Recording Studio", 2006);
         HarryPotter.printInfo();
     }
     
